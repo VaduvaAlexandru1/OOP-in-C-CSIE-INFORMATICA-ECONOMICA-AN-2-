@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemaSeminar8", "TemaSeminar8\TemaSeminar8.vcxproj", "{ACD698E2-627E-439A-836E-1150EEEFE5A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD698E2-627E-439A-836E-1150EEEFE5A9}.Debug|x64.ActiveCfg = Debug|x64
+		{ACD698E2-627E-439A-836E-1150EEEFE5A9}.Debug|x64.Build.0 = Debug|x64
+		{ACD698E2-627E-439A-836E-1150EEEFE5A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACD698E2-627E-439A-836E-1150EEEFE5A9}.Debug|x86.Build.0 = Debug|Win32
+		{ACD698E2-627E-439A-836E-1150EEEFE5A9}.Release|x64.ActiveCfg = Release|x64
+		{ACD698E2-627E-439A-836E-1150EEEFE5A9}.Release|x64.Build.0 = Release|x64
+		{ACD698E2-627E-439A-836E-1150EEEFE5A9}.Release|x86.ActiveCfg = Release|Win32
+		{ACD698E2-627E-439A-836E-1150EEEFE5A9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B77E24E-9328-4740-BEF4-F8E56C5B32C1}
+	EndGlobalSection
+EndGlobal
