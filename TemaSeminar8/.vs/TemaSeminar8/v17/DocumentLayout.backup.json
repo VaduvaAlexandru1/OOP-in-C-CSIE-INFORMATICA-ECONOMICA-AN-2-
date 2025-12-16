@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|solutionrelative:TemaSeminar8\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|solutionrelative:TemaSeminar8\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -20,11 +24,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\.gitignore",
+              "RelativeDocumentMoniker": "TemaSeminar8\\.gitignore",
+              "ToolTip": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\.gitignore",
+              "RelativeToolTip": "TemaSeminar8\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T21:53:56.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "throw_bad_alloc.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
@@ -46,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\Main.cpp",
               "RelativeDocumentMoniker": "TemaSeminar8\\Main.cpp",
-              "ToolTip": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\Main.cpp*",
-              "RelativeToolTip": "TemaSeminar8\\Main.cpp*",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAcwLEAAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\Main.cpp",
+              "RelativeToolTip": "TemaSeminar8\\Main.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-26T17:50:02.521Z",
               "EditorCaption": ""

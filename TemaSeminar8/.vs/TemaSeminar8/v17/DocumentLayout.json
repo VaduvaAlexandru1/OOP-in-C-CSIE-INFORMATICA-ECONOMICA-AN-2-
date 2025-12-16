@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\",
+  "WorkspaceRootPath": "C:\\Facultate\\An2\\Sem1\\Poo\\Seminarii\\TemaSeminar8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|solutionrelative:TemaSeminar8\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|C:\\Facultate\\An2\\Sem1\\Poo\\Seminarii\\TemaSeminar8\\TemaSeminar8\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|solutionrelative:TemaSeminar8\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|solutionrelative:TemaSeminar8\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|C:\\Facultate\\An2\\Sem1\\Poo\\Seminarii\\TemaSeminar8\\TemaSeminar8\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ACD698E2-627E-439A-836E-1150EEEFE5A9}|TemaSeminar8\\TemaSeminar8.vcxproj|solutionrelative:TemaSeminar8\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\throw_bad_alloc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -24,15 +24,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\.gitignore",
+              "DocumentMoniker": "C:\\Facultate\\An2\\Sem1\\Poo\\Seminarii\\TemaSeminar8\\TemaSeminar8\\.gitignore",
               "RelativeDocumentMoniker": "TemaSeminar8\\.gitignore",
-              "ToolTip": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\.gitignore",
+              "ToolTip": "C:\\Facultate\\An2\\Sem1\\Poo\\Seminarii\\TemaSeminar8\\TemaSeminar8\\.gitignore",
               "RelativeToolTip": "TemaSeminar8\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -44,32 +44,34 @@
               "DocumentIndex": 2,
               "Title": "throw_bad_alloc.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-26T21:43:15.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T21:43:15.498Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
               "ViewState": "AgIAAKMBAAAAAAAAAAAkwMEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-26T19:27:18.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T19:27:18.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\Main.cpp",
+              "DocumentMoniker": "C:\\Facultate\\An2\\Sem1\\Poo\\Seminarii\\TemaSeminar8\\TemaSeminar8\\Main.cpp",
               "RelativeDocumentMoniker": "TemaSeminar8\\Main.cpp",
-              "ToolTip": "D:\\Facultate\\An2\\Sem1\\POO\\TemaSeminar8\\TemaSeminar8\\Main.cpp",
+              "ToolTip": "C:\\Facultate\\An2\\Sem1\\Poo\\Seminarii\\TemaSeminar8\\TemaSeminar8\\Main.cpp",
               "RelativeToolTip": "TemaSeminar8\\Main.cpp",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-26T17:50:02.521Z",
               "EditorCaption": ""
