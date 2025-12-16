@@ -1,0 +1,6 @@
+# Ignore all Visual Studio temporary files in any subfolder
+.vs/
+bin/
+obj/
+*.user
+*.suo
