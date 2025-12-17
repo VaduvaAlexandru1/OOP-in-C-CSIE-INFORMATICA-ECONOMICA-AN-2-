@@ -1,2 +1,3 @@
 ﻿  Main.cpp
+C:\Facultate\An2\Sem1\Poo\Seminarii\PregatireTest2\Subiect1\Subiect1\Main.cpp(88,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Subiect1.vcxproj -> C:\Facultate\An2\Sem1\Poo\Seminarii\PregatireTest2\Subiect1\x64\Debug\Subiect1.exe
