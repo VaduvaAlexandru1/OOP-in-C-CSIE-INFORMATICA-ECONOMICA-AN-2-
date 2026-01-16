@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Facultate\An2\Sem1\Poo\Pregatire Examen\SubiectFrizerie\SubiectFrizerie\Main.cpp(75,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Facultate\An2\Sem1\Poo\Pregatire Examen\SubiectFrizerie\SubiectFrizerie\Main.cpp(88,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SubiectFrizerie.vcxproj -> C:\Facultate\An2\Sem1\Poo\Pregatire Examen\SubiectFrizerie\x64\Debug\SubiectFrizerie.exe

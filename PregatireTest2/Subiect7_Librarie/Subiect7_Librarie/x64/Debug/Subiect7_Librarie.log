@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Facultate\An2\Sem1\Poo\Seminarii\PregatireTest2\Subiect7_Librarie\Subiect7_Librarie\Main.cpp(31,1): warning C4715: 'Carte::operator=': not all control paths return a value
+  Subiect7_Librarie.vcxproj -> C:\Facultate\An2\Sem1\Poo\Seminarii\PregatireTest2\Subiect7_Librarie\x64\Debug\Subiect7_Librarie.exe
