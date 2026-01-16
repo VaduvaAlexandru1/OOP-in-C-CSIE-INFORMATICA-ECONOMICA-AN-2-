@@ -140,12 +140,12 @@ int main() {
 	catch (const runtime_error& err){
 		cout << "Eroare " << err.what() << endl;
 	}
-	//cout << b1;
+	cout << b1;
 
 	double pretMediu = b1;
-	//cout << "Pret mediu : " << pretMediu;
+	cout << "Pret mediu : " << pretMediu << endl;
 
-	//ORIGINAL : cout << (b1 != "Crima si pedeapsa" , am adaugat un ternar ca sa ofer un output mai explicit 
+	//ORIGINAL : cout << (b1 != "Crima si pedeapsa") , am adaugat un ternar ca sa ofer un output mai explicit 
 	cout << ((b1 != "Crima si pedeapsa") ? "true" : "false");
 	return 0;
 }

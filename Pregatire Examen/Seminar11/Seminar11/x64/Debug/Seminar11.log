@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Facultate\An2\Sem1\Poo\Pregatire Examen\Seminar11\Seminar11\Main.cpp(91,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Seminar11.vcxproj -> C:\Facultate\An2\Sem1\Poo\Pregatire Examen\Seminar11\x64\Debug\Seminar11.exe
