@@ -57,7 +57,8 @@ class MarfaGenerala : public Marfa {
 	double volum;
 public:
 	MarfaGenerala() : Marfa(){}
-	MarfaGenerala(double _greutate , double _volum , string _nume, double _pretUnitar, int _anFabricatie, string _tara, int _indiceCalitate) : Marfa(_nume, _pretUnitar, _anFabricatie, _tara, _indiceCalitate) {
+	MarfaGenerala(double _greutate , double _volum , string _nume, double _pretUnitar, int _anFabricatie, string _tara, int _indiceCalitate) 
+		: Marfa(_nume, _pretUnitar, _anFabricatie, _tara, _indiceCalitate) {
 		this->greutate = _greutate;
 		this->volum = _volum;
 	}
@@ -101,10 +102,6 @@ public:
 		ost << "Durata : " << this->durataValabilitate << endl;
 	}
 };
-
-//pair : cheie ; valoare
-//map : {cheie1 : valoare1 , cheie2 : valoare2 ...)
-
 
 int Marfa::generator = 0;
 
@@ -153,12 +150,37 @@ public:
 
 	void genereazaRaportCalitatePiete(vector<string> coduriExportate) {
 		map<string, int> cantitate;
+		map<string, int> indicePeTari;
+		map<string, int> cantitatePeTari;
+
+
 		for (auto& cod : coduriExportate) {
 			for (auto& marfa : marfuri) {
 				if (cod == marfa->getId())
 					cantitate[cod]++;
 			}
 		}
+
+		for (auto& pair : cantitate) {
+			for (auto& marfa : marfuri) {
+				if (pair.first == marfa->getId()) {
+					indicePeTari[marfa->getTara()] += marfa->getIndiceCalitate();
+					cantitatePeTari[marfa->getTara()] += 1;
+				}
+			}
+		}
+
+		for (auto& pair : indicePeTari) {
+			double medie = (double)pair.second / cantitatePeTari[pair.first];
+			cout << "TARA : " << pair.first << endl;
+			cout << "MEDIE : " << medie << endl;
+			cout << "PRODUSE AFERENTE : " << endl;
+			for (auto& marfa : marfuri) {
+				if (marfa->getIndiceCalitate() > medie && (marfa->getTara() == pair.first))
+					cout << *marfa << endl;
+			}
+		}
+
 		
 	}
 
@@ -260,9 +282,22 @@ int main() {
 	f.adaugaMarfa(new MarfaDigitala(
 		"LIC-XYZ-123", "Software ERP", 500.0, 2025, "USA", 5
 	));
+	f.adaugaMarfa(new MarfaGenerala(
+		500, 1.0, "Fier", 40.0, 2021, "Romania", 2
+	));
 
+	f.adaugaMarfa(new MarfaGenerala(
+		700, 2.0, "Otel", 70.0, 2024, "Romania", 6
+	));
 
-	cout << f;
+	f.adaugaMarfa(new MarfaPerisabila(
+		-2.0, 10, "Lactate", 60.0, 2024, "Germania", 4
+	));
+
+	
+	//cout << f;
+	vector<string> coduri = { "1", "5", "6", "3", "7" };
+	f.genereazaRaportCalitatePiete(coduri);
 
 	return 0;
 }
