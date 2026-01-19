@@ -1,0 +1,13 @@
+ID SALA : 1
+NUME SALA : Sala Principala
+CARTILE EXISTENTE IN SALA : 
+	COD : 3
+	TITLU : Stapanul inelelor
+	AUTOR : Tolkien
+	CANTITATE : 5
+
+	COD : 1
+	TITLU : 1984
+	AUTOR : Orwell
+	CANTITATE : 7
+
